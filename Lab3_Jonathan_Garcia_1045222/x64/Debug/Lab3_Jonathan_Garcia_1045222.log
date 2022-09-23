@@ -1,0 +1,4 @@
+﻿  Lab3_Jonathan_Garcia_1045222.cpp
+D:\visual studi\Lab3_Jonathan_Garcia_1045222\Lab3_Jonathan_Garcia_1045222.cpp(115,10): warning C4102: 'case3': etiqueta sin referencia
+D:\visual studi\Lab3_Jonathan_Garcia_1045222\Lab3_Jonathan_Garcia_1045222.cpp(79): warning C4715: 'conversion': no todas las rutas de acceso de control devuelven un valor
+  Lab3_Jonathan_Garcia_1045222.vcxproj -> D:\visual studi\Lab3_Jonathan_Garcia_1045222\x64\Debug\Lab3_Jonathan_Garcia_1045222.exe
